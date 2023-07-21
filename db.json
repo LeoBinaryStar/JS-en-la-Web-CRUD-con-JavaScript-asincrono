@@ -1,0 +1,29 @@
+{
+  "perfil": [
+    {
+      "nombre": "Harland",
+      "email": "harland@alura.com",
+      "id": 1
+    },
+    {
+      "nombre": "José Julio",
+      "email": "julio.montes@hotmail.com",
+      "id": "9d9d16e0-aea2-4e53-b244-4cdb94479985"
+    },
+    {
+      "nombre": "miriam",
+      "email": "miriam.alura.com",
+      "id": "850923f8-d238-4c47-a710-27b33bb2d004"
+    },
+    {
+      "nombre": "Roy",
+      "email": "roy.gmail.com",
+      "id": "9138f753-c89d-4c7a-ae7c-65680fd0cc78"
+    },
+    {
+      "nombre": "fernando",
+      "email": "fernan@alura.com",
+      "id": "3b208e6b-d59c-4717-a049-c81344ca3304"
+    }
+  ]
+}
